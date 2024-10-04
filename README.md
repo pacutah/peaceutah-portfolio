@@ -1,6 +1,6 @@
 # Project on Diamond data set
 
-## Introduction
+##**Introduction**
 
 This project was executed  using a classic diamond dataset which I  downloaded from Kaggle. 
 The dataset had almost 54000 entries each representing the price in dollars and other physical attributes unique for each stone. 
@@ -13,7 +13,8 @@ I used Excel for data cleaning and exploratory analysis while PowerBI was used t
 ##Analysis and Insights
 
 The collection of diamonds positioned for sale was consistent with industry standards where there was a good interplay of the relevant diamond rating factors.
-In general,  the diamonds were  predominantly small stones ranging between  0.2 – 5.01 carats and about 95% were between 0.00- 1.99 carats , while 4%  were between 2.0 -3.0 carats  and the remaining  less than 1% were 3.0 and above.The total weight  of the stones in the data set was 43,042.99 carats.
+In general, the diamonds were  predominantly small stones ranging between  0.2 – 5.01 carats and about 95% were between 0.00- 1.99 carats , while 4%  were between 2.0 -3.0 carats  and the remaining  less than 1% were 3.0 and above.
+The total weight  of the stones in the data set was 43,042.99 carats.
 The value of the transaction was $212,143,486.
 The depth profile of the diamonds was in the ideal range for most of the stones across the categories where 0.00- 3.00 carats had ideal depth range 59.5 % - 62.9% while the bigger stones above 3.0 carats had permissible range.It was observed that average depth increased with carat.
 The colour profile was consistent with desired standard covering only from alphabet D – J. G colour  was the most common in the dataset having  the highest cumulative carat.
@@ -23,10 +24,8 @@ It was observed that were all other rating factors remained same, price would in
 Working with both Excel and PowerBI  showed tha the tool used for analysis may vary but the derived insights wod be similar where the riht conditions are engaged.
 
 
-##Recommendations
-
-
 ##Limitations
+
 The table was not included in the data analysis because  information about shape of the diamond was not included in the dataset and  ideal table ranges vary with shape of stone, hence inability to perform such analysis
 
 
