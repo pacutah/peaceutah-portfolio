@@ -21,7 +21,7 @@ The colour profile was consistent with desired standard covering only from alpha
 Clarity had an uneven spread across the spectrum, where 79% were spread between VS1,VS2.SI1,SI2  as 41.3% of the diamonds were slightly included  SI1 and SI2 which  are not the ideal rating  and the37.7% were VS1, and VS2 and the remaining  21% were spread among the remaining items on the scale. This property had the worst profile because the best clarity rating factors were barely up 20%. 
 The cut which is the most important  factor had an impressive profile where, over 96% of the diamonds were between ideal and good rating  which is consistent with industry expectations. The impressive cut profile made up for the average clarity rating where 40% of the stones had ideal cut rating. 
 It was observed that were all other rating factors remained same, price would increase as carat weight increase.
-Working with both Excel and PowerBI  showed that the tool used for analysis may vary but the derived insights wod be similar where the riht conditions are engaged.
+Working with both Excel and PowerBI  showed that the tool used for analysis may vary but the derived insights would be similar where the right conditions are engaged.
 
 
 ## Limitations
